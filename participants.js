@@ -289,6 +289,7 @@ const participants = [
         "skills": ['C++' ,'Android development'],
         "description": "Breaking the chain through the fuse"
     },
+    
     {
         "name": "Raj Shekhar singh",
         "img": "https://avatars1.githubusercontent.com/u/72275401?s=400&u=aa8d4251ec87a181c4fce226c202bfa93f1a31a9&v=4",
